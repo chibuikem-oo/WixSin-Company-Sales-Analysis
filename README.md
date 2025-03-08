@@ -155,3 +155,13 @@ This dashboard was created to analyze WixSin Company's sales data, focusing on o
 ### **Conclusion**
 
 To optimize sales activities and increase revenue, WixSin Company should focus on seasonal trends, weekday promotions, category expansion, state-specific strategies, and inventory management for top-selling products. These actions will help sustain and grow revenue effectively.
+
+## Limitations
+- Data Completeness: The dataset may not include all sales transactions, potentially leading to incomplete insights.
+- Data Accuracy: There may be errors or inconsistencies in the data that could affect the accuracy of the analysis.
+- Generalizability: Insights derived from this dataset may not be generalizable to other companies or regions.
+- Temporal Limitations: The analysis is based on historical data and may not reflect current or future trends.
+- Category Contribution: The analysis assumes that product categories are a primary factor in revenue generation, which may not always be the case.
+- State Contribution: The analysis assumes that state-specific factors significantly impact revenue, which may not always be the case.
+- Segment Contribution: The analysis assumes that product segments are a primary factor in revenue generation, which may not always be the case.
+- Top Products: The top 5 best-selling products may not fully represent customer preferences or market trends.
